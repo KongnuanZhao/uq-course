@@ -62,15 +62,15 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + [Lecture 20](lectures/lec_20.ipynb) on 03/24/2016.
 
-+ [Lecture 21 - Markov chain Monte Carlo methods (Part I)](lectures/lec_21.ipynb) on 03/29/2016.
++ [Lecture 21 - Markov Chain Monte Carlo Methods (Part I)](lectures/lec_21.ipynb) on 03/29/2016.
 
-+ [Lecture 22 - Markov chain Monte Carlo methods (Part II)](lectures/lec_22.ipynb) on 03/31/2016.
++ [Lecture 22 - Markov Chain Monte Carlo Methods (Part II)](lectures/lec_22.ipynb) on 03/31/2016.
 
 + [Lecture 23](lectures/lec_23.ipynb) on 04/05/2016.
 
 + [Lecture 24](lectures/lec_24.ipynb) on 04/07/2016.
 
-+ [Lecture 25](lectures/lec_25.ipynb) on 04/12/2016.
++ [Lecture 25 - How to Optimize Expensive Functions](lectures/lec_25.ipynb) on 04/12/2016.
 
 + [Lecture 26](lectures/lec_26.ipynb) on 04/14/2016.
 
