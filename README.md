@@ -72,15 +72,7 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + [Lecture 25 - How to Optimize Expensive Functions](lectures/lec_25.ipynb) on 04/12/2016.
 
-+ [Lecture 26](lectures/lec_26.ipynb) on 04/14/2016.
-
-+ [Lecture 27](lectures/lec_27.ipynb) on 04/19/2016.
-
-+ [Lecture 28](lectures/lec_28.ipynb) on 04/21/2016.
-
-+ [Lecture 29](lectures/lec_29.ipynb) on 04/26/2016.
-
-+ [Lecture 30](lectures/lec_30.ipynb) on 04/28/2016.
++ [Lecture 26 - Sequential Monte Carlo and Bayesian Model Comparison](lectures/lec_26.ipynb) on 04/14/2016.
 
 
 ## Homework Sets
@@ -91,11 +83,10 @@ The goal of this course is to introduce the fundamentals of uncertainty quantifi
 
 + [Homework 3](hw/hw_03.ipynb) due on 03/03/2016.
 
-+ [Homework 4](hw/hw_04.ipynb) due on 03/??/2016.
++ [Homework 4](hw/hw_04.ipynb) due on 04/07/2016.
 
-+ [Homework 5](hw/hw_05.ipynb) due on 04/??/2016.
++ [Homework 5](hw/hw_05.ipynb) due on 04/21/2016.
 
-+ [Homework 6](hw/hw_06.ipynb) due on 04/??/2016.
 
 
 ## Installation of Required Software for Viewing the Notebookes
